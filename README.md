@@ -1,6 +1,7 @@
 # Learn AWS in a month of lunches - David Clinton
 - [bostonPHP message board](https://www.meetup.com/bostonphp/messages/boards/forum/30317386)
-- [boston DevOps slack](https://bostondevops-invites.herokuapp.com/)
+- [boston DevOps slack channel](https://bostondevops-invites.herokuapp.com/)
+click on the RAW button for proper formatting
 
 # Book summary Part 1
 ## Chapter 1 AWS account
@@ -23,7 +24,7 @@ Regions(VPC) > Availability Zone(subnet) > EC2 host/instance
 EC2 instance = Virtual Machine
 EC2 Amazon Machine Image ( AMI ) = a template for replicating precise OS environments (chapters 2 and 7).
 EBS volumes = data volumes (like hard drives) for an instance (chapter 2).
-security group = controls the movement of data between your AWS resources and the big, bad internet beyond (chap-ter 2).
+security group = controls the movement of data between your AWS resources and the big, bad internet beyond (chapter 2).
 Simple Storage Service ( S3 ) bucket = object storage for users
 Virtual private cloud (VPC) = AWS’s primary organizational grouping of virtual resources
 
