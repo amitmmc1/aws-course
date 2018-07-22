@@ -1,6 +1,6 @@
 # Learn AWS in a month of lunches - David Clinton
-[bostonPHP message board](https://www.meetup.com/bostonphp/messages/boards/forum/30317386)
-[boston DevOps slack](https://bostondevops-invites.herokuapp.com/)
+- [bostonPHP message board](https://www.meetup.com/bostonphp/messages/boards/forum/30317386)
+- [boston DevOps slack](https://bostondevops-invites.herokuapp.com/)
 
 # Book summary Part 1
 ## Chapter 1 AWS account
